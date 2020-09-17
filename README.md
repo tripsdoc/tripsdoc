@@ -9,7 +9,7 @@
 - 👯 Still finding new ideas !!!
 
 ## How to connect:
-[![](https://img.shields.io/badge/-LinkedIn-0e83cd?style=flat-square&logo=LinkedIn&logoColor=fff)]([linkedin]) [![](https://img.shields.io/badge/-m.tio.seedling@gmail.com-911318?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)]([mail])
+[![](https://img.shields.io/badge/-LinkedIn-0e83cd?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/muhammad-tio-891119178/) [![](https://img.shields.io/badge/-m.tio.seedling@gmail.com-911318?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:m.tio.seedling@gmail.com)
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -19,5 +19,3 @@
 </details>
 
 [website]: https://hupsooncheong.com.sg
-[linkedin]: https://www.linkedin.com/in/muhammad-tio-891119178/
-[mail]: mailto:m.tio.seedling@gmail.com
